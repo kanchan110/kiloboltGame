@@ -1,2 +1,2 @@
 # kiloboltGame
-Game based on java
+java implementation
