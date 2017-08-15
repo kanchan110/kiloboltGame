@@ -1,2 +1,2 @@
 # kiloboltGame
-A demo game based on java
+Game based on java
